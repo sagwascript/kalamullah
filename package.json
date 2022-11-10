@@ -11,7 +11,7 @@
   "author": "sagwascript",
   "license": "MIT",
   "dependencies": {
-    "electron": "^4.1.3",
+    "electron": "^18.3.7",
     "graphql": "^14.0.2",
     "graphql-tools": "^4.0.2",
     "react": "^16.6.0",
